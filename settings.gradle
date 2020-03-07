@@ -1,0 +1,2 @@
+include ':app', ':simpleanalogclock'
+rootProject.name='Test Bugs'
